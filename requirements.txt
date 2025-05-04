@@ -35,3 +35,4 @@ urllib3==2.2.3
 Werkzeug==2.2.3
 wheel==0.38.4
 wrapt==1.14.1
+cv2
